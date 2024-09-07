@@ -1,0 +1,11 @@
+extend base
+
+block content
+    main.main
+        .under-development-block
+            h2.under-development-heading Under Development
+            if user
+                a.back-home.btn.btn--green.btn--small(href='/me') &rarr; Back
+            else
+                a.back-home.btn.btn--green.btn--small(href='/') &rarr;  Back Home
+                a.back-home.btn.btn--green.btn--small(href='/signup') &rarr;  Sign up

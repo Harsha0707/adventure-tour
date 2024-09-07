@@ -1,0 +1,17 @@
+extend base
+
+block content
+    main.main
+        .about-us-container 
+            .about-us-heading-block 
+                h2.about-us-heading About Project 
+
+            .about-us-content-block 
+                .about-us-content 
+                    p Adventure Tour project is mainly about authentication and authorization and checkout, where user can book a tour, used Stripe for checkout which is in test mode so money will not be deducted. Once booked user can check bookings in MY BOOKINGS. 
+                    p Many more things to implement in futhure such as user can write a review when tour ends, one can become a Guide and many more. 
+                if user
+                    a.back-home.btn.btn--green.btn--small(href='/me') &rarr; Back
+                else
+                    a.back-home.btn.btn--green.btn--small(href='/') &rarr;  Back Home
+                    a.back-home.btn.btn--green.btn--small(href='/signup') &rarr;  Sign up
