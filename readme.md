@@ -1,6 +1,6 @@
 # Adventure Tour
 
-This project is built based on [node.js](https://nodejs.org/en), [mongoDB](https://www.mongodb.com/) and [pugjs](https://pugjs.org/api/getting-started.html)
+This project is built based on [node.js](https://nodejs.org/en), [express.js](https://expressjs.com/), [mongoDB](https://www.mongodb.com/), [mongoose](https://mongoosejs.com/) and [pugjs](https://pugjs.org/api/getting-started.html)
 
 Adventure Tour project is mainly about authentication and authorization and checkout, where user can book a tour, used [Stripe](https://stripe.com/in) for checkout which is in test mode so money will not be deducted. Once booked user can check bookings in MY BOOKINGS.
 
