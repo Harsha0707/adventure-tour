@@ -1518,6 +1518,7 @@ body {
 
   .section-description {
     flex-direction: column;
+    padding-bottom: 5rem;
   }
 
   .reviews {
