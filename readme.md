@@ -14,4 +14,4 @@ Open http://127.0.0.1:3000/ with your browser to see the result.
 
 # Deploy on Heroku
 
-The easiest way to deploy your app is to use the [Heroku](https://www.heroku.com/) which is a build data-driven apps with fully managed data services.
+The easiest way to deploy your app is to use the [Vercel](https://vercel.com/) which provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.
