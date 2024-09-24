@@ -12,6 +12,6 @@ npm run start
 
 Open http://127.0.0.1:3000/ with your browser to see the result.
 
-# Deploy on Vercel
+# Deploy on Render
 
-The easiest way to deploy your app is to use the [Vercel](https://vercel.com/) which provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.
+The easiest way to deploy your app is to use the [Render](https://render.com/) where you can build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth.personalized web.
